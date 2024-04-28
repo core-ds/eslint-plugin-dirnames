@@ -1,6 +1,6 @@
 "use strict";
 
-var matchKebabCaseRule = require("../../../lib/rules/match-kebab-case");
+var matchKebabCaseRule = require("../lib/rules/match-kebab-case");
 var RuleTester = require("eslint").RuleTester;
 
 var ruleTester = new RuleTester();
