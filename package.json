@@ -2,16 +2,9 @@
   "name": "eslint-plugin-dirnames",
   "version": "1.0.3",
   "description": "Eslint rule for consistent dirnames",
-  "author": "Good guys from Alfa-Bank",
-  "bugs": {
-    "url": "https://github.com/alfa-laboratory/eslint-plugin-dirnames/issues"
-  },
-  "license": "ISC",
+  "author": "core-ds contributors",
+  "license": "MIT",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alfa-laboratory/eslint-plugin-dirnames.git"
-  },
   "scripts": {
     "test": "jest .",
     "coverage": "jest . --coverage",
